@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ViewsforGovCMS feature.
+ */
+
+include_once 'viewsforgovcms.features.inc';
